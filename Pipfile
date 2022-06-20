@@ -7,8 +7,9 @@ name = "pypi"
 streamlit = "*"
 geemap = "*"
 earthengine-api = "*"
-leafmap = "*"
 geobr = "*"
+fiona = "*"
+leafmap = "*"
 
 [dev-packages]
 
